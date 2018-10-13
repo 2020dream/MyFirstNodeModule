@@ -1,5 +1,5 @@
 {
-  "name": "my_1st_node_module",
+  "name": "my_very_first_node_module",
   "version": "1.0.0",
   "description": "I am making a Node Module!!",
   "main": "index.js",
