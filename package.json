@@ -1,6 +1,6 @@
 {
   "name": "my_very_first_node_module",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "I am making a Node Module!!",
   "main": "index.js",
   "scripts": {
